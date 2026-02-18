@@ -1,8 +1,10 @@
 **Hi,there!**
 
-As the College Entrance Examination(2026) is drawing near,[my netlify site](https://reducedradius.netlify.app/)may be free from editing.
+As the College Entrance Examination(2026) is drawing near,[my netlify site](https://reducedradius.netlify.app/)may be free from editing.<br />
+
 <small>
-In 7 September,2025, I got the third prize in the 39<sub>th</sub> CCS Olympics(Disappointingly, it is not related to Computer Science.)in Hunan Province,which can be seen in its [published list,14 PDF,page 21](https://www.chemsoc.org.cn/notice/a6926.html).</small>
+In 7 September,2025, I got the third prize in the 39<sub>th</sub> CCS Olympics(Disappointingly, it is not related to Computer Science.)in Hunan Province,which can be seen in its [published list,14 PDF,page 21](https://www.chemsoc.org.cn/notice/a6926.html).
+</small>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flytothehighest&show_icons=true&theme=vue&hide_border=true)
 
