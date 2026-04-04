@@ -1,7 +1,9 @@
 **Hi,there!**
 
 You can see part of my CoCo widgets(credited as "ReducedRadius","DashedRadius","borderRadius") at [UniWidget Backup](https://github.com/UniWidget/database),
-or download in my [netlify site](http://reducedradius.netlify.app/widgets/).
+or download it in my [netlify site](http://reducedradius.netlify.app/widgets/).
+
+You can see additional info in [this file](todo.md)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flytothehighest&show_icons=true&theme=vue&hide_border=true)
