@@ -5,6 +5,9 @@ or download it in my [netlify site](http://reducedradius.netlify.app/widget/).
 
 You can see my additional info in [this file](todo.md).
 
+I have contributed some translations on some repos,like [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm),
+[ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) and so on.
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flytothehighest&show_icons=true&theme=vue&hide_border=true)
 
