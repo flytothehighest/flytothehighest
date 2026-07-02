@@ -3,10 +3,10 @@
 
  In 7 September,2025, I got the third prize in the 39<sub>th</sub> CCS High School Olympics(2025年第39届中国化学奥林匹克（初赛)(湖南省);it is not related to Computer Science.)in Hunan Province,which can be seen in page 21 of its [published 2nd-3rd prizes list](https://www.chemsoc.org.cn/notice/a6926.html).
 
- <br /><br /><br />
+ <br />
 
 Additionally,I casually pushed over 50 javascript files(known as "Widgets") into [PICKDUCK](https://shequ.pgaot.com/?mod=cocojs) platform before 2024,but in turn they contribute to Mr.Ye's(A primary school teacher) counter software,which was awarded with **First Prize** for tutors in 38<sub>th</sub> Jiangxi Province Teen Creation Competition in Jan.,2024.Due to the rise of AI,
-and the lack of CoCo updates, I graudally stopped making widgets since 2025.
+and the lack of CoCo updates, I have graudally stopped making widgets since 2025.
 
 *Note: Coco is the platform where Android Apps developed in an accessible manner(using Google Blockly).However,Coco didn't improve its own infrastructure,affecting users' satisfaction of the platform.My Widget is specifically designed for Coco;Coco is unrelated to the Cocos,which accounts for a game developing platform.*
 
