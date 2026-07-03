@@ -1,4 +1,4 @@
-**Hi,there! (*^▽^*)**
+**Hi,there!**
 
 You can see part of my CoCo widgets(credited as "ReducedRadius","DashedRadius","borderRadius") at [UniWidget Backup](https://github.com/UniWidget/database)(e.g. [Video Widget](https://github.com/UniWidget/database/blob/main/BR_VIDEO/1.0.1/75af7f7170.jsx);[Lunar Stamp Converter](https://github.com/UniWidget/database/blob/main/LUNAR_TIME_STAMP_CONVERTER/1.0.0/e1c81fb1c7.js);[Recorder](https://github.com/UniWidget/database/blob/main/RECORDER_WIDGET/1.0.0/7fe68e93f5.js) and so on.),
 or download it in my [netlify site](http://reducedradius.netlify.app/widget/).
