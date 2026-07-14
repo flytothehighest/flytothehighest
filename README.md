@@ -3,7 +3,7 @@
 You can see part of my CoCo widgets(credited as "ReducedRadius","DashedRadius","borderRadius") at [UniWidget Backup](https://github.com/UniWidget/database)(e.g. [Video Widget](https://github.com/UniWidget/database/blob/main/BR_VIDEO/1.0.1/75af7f7170.jsx);[Lunar Stamp Converter](https://github.com/UniWidget/database/blob/main/LUNAR_TIME_STAMP_CONVERTER/1.0.0/e1c81fb1c7.js);[Recorder](https://github.com/UniWidget/database/blob/main/RECORDER_WIDGET/1.0.0/7fe68e93f5.js) and so on.),
 or download it in my [netlify site](http://reducedradius.netlify.app/widget/).
 
-You can see my additional info in [this file](todo.md).Both `flytothehighest` and `reducedradius` are irrelevant to my legal name.
+You can see my additional info by taking a look at [this file](todo.md).Both `flytothehighest` and `reducedradius` are irrelevant to my legal name.
 
 I have contributed some *translations* on some repos,like [ddterm/gnome-shell-extension-ddterm](https://github.com/ddterm/gnome-shell-extension-ddterm),
 [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) and so on.
