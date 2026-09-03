@@ -17,3 +17,8 @@ In his article,he wrote:
 Thus,my name has been listed in his *Technical Supporter*(技术支持).
 
 Reference Articles: [The Growth of the Fully Automatic Computer Timing System(电脑全自动发令计时系统成长记)](archived.pdf),and [a chat recording](rec.mp4).The former one is archived from https://docs.qq.com/doc/DTGxRb0VVVWhzTGVD .
+
+I was also introduced by @hamburger2048 in August 31st.See https://hosted.weblate.org/translate/amule/amule-application/zh_Hans/?&offset=640#comments
+or the image below.
+
+![alt text](pic.png)
